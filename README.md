@@ -7,4 +7,5 @@ Solutions to hard persistence segment tree problems
 3. [Morgan Stanley Codeathon 2015 | HackerRank](https://www.hackerrank.com/contests/morgan-stanley-2015/challenges/wet-shark-and-kth-largest-number)
 4. [MKTHNUM | SPOJ](http://www.spoj.com/problems/MKTHNUM/)
 5. [TTM | SPOJ](www.spoj.com/problems/TTM/) 
+6. [Persistent Bookcase | Codeforces Div2 Round 368](http://codeforces.com/contest/707/problem/D)
 
